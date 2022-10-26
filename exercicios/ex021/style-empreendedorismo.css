@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+
+main {
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px 0px;  
+}
+
+article > h2 {
+    color: rgb(2, 138, 2)
+}
