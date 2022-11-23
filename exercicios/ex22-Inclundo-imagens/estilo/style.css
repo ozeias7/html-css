@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@100 & display=swap');
+
+
+div.uadrado {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 2px;    
+    width: 300px;
+    height: 300px;
+}
+
+div#d1{
+    background-color: aqua;
+}
+
+div#d2{
+    background-image: linear-gradient(to 
+    bottom, yellow, rgb(0, 47, 255)) ;
+}
+
+div#d3{
+    background-image: url("imagens/pattern001.png");   
+}
